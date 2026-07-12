@@ -26,7 +26,7 @@ The project includes custom implementations of the **Generator**, **PatchGAN Dis
 ## Project Workflow
 
 <p align="center">
-<img src="images/workflow.png" width="900">
+<img src="images/project_workflow.png" width="900">
 </p>
 
 ---
